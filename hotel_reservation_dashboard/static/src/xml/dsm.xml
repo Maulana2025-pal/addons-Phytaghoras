@@ -7,9 +7,11 @@
                 <div class="dashboard-header">
                     <div class="dashboard-header-content">
                         <div>
+                        
+                               
                             <h1 class="dashboard-title">🏨 Room Booking Dashboard</h1>
                             <p class="dashboard-subtitle">Manage your hotel room reservations with style and efficiency</p>
-                            
+                            <p>halo</p>
                             <!-- Quick Stats -->
                             <div class="dashboard-stats" t-if="False">
                                 <div class="stat-card">
